@@ -1,8 +1,6 @@
 package com.example.fragmenttest;
 
 import android.content.pm.ActivityInfo;
-import android.os.PersistableBundle;
-import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
